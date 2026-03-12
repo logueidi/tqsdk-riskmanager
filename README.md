@@ -31,6 +31,8 @@
 | 18 | 波动率调整策略 | 仓位管理 | [18_vol_adj_position.py](strategies/18_vol_adj_position.py) |
 | 19 | 风险收益比优化策略 | 风险控制 | [19_risk_reward_opt.py](strategies/19_risk_reward_opt.py) |
 | 20 | 多策略风控策略 | 风险控制 | [20_multi_strategy_risk.py](strategies/20_multi_strategy_risk.py) |
+| 21 | 组合VaR计算器 | 风险监控 | [21_portfolio_var.py](strategies/21_portfolio_var.py) |
+| 22 | 相关性风险监控器 | 风险监控 | [22_correlation_risk_monitor.py](strategies/22_correlation_risk_monitor.py) |
 
 ## 策略分类
 
@@ -65,4 +67,4 @@ pip install tqsdk numpy pandas scipy
 
 **持续更新中，欢迎 Star ⭐ 关注**
 
-*更新时间：2026-03-11*
+*更新时间：2026-03-12*
